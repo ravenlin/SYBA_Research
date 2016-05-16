@@ -1,0 +1,406 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/simulation/modelsim
+vbob
+Z1 !s110 1462210372
+!i10b 1
+!s100 j?QlLX`QA0DO^4bO@_8Ne2
+I1I<?czjB`;DaOU92K1i]R3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1462203410
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v
+Z3 L0 39
+Z4 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z5 !s108 1462210372.000000
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris
+vCCD_Capture
+R1
+!i10b 1
+!s100 ?n9<9GF4PU6EYV8`mWbMX2
+IE:S@FkRA@dPEJDl<PlTOQ1
+R2
+R0
+Z8 w1462203412
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v
+Z9 L0 43
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Param.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v|
+!i113 1
+R6
+Z10 !s92 -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v
+n@c@c@d_@capture
+vcommand
+R1
+!i10b 1
+!s100 X@`gQEn>?@9K78@g7<KiF0
+I[KRiAING4i9o3fS:P=VOP2
+R2
+R0
+Z11 w1462203428
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v
+Z12 FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Params.h
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Params.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v|
+!i113 1
+R6
+Z13 !s92 -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control
+vcontrol_interface
+R1
+!i10b 1
+!s100 0_G@ioAanNHBd=46Tzz[L1
+I9[:Hm85UF4`DLOJZGeiP`0
+R2
+R0
+R11
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v
+R12
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Params.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v|
+!i113 1
+R6
+R13
+vDE2_115_CAMERA
+R1
+!i10b 1
+!s100 4hYE?GmX0ob>I660ohfgE3
+I34lUIcL:MQJShohS2fN`C3
+R2
+R0
+w1462210137
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/VGA_Param.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v|
+!i113 1
+R6
+R7
+n@d@e2_115_@c@a@m@e@r@a
+vI2C_CCD_Config
+R1
+!i10b 1
+!s100 ;LFFFzk@WAbI=n<1;V;<O1
+I[K?IYJ>dN8GDkTmcG<6h;2
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Param.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v|
+!i113 1
+R6
+R10
+n@i2@c_@c@c@d_@config
+vI2C_Controller
+Z14 !s110 1462210371
+!i10b 1
+!s100 49iW5CPOb`ZJPZWPC;E_Y1
+I<N4ODfKH3;Z>Nnl_8ZKdm2
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v
+L0 42
+R4
+r1
+!s85 0
+31
+Z15 !s108 1462210371.000000
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v|
+!i113 1
+R6
+R10
+n@i2@c_@controller
+vLine_Buffer
+R14
+!i10b 1
+!s100 W=6=nWbWZbSZWEF<`Va]O2
+I:QHcc0<1XUJ2KFf;aOQF30
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v|
+!i113 1
+R6
+R10
+n@line_@buffer
+vRAW2RGB
+R1
+!i10b 1
+!s100 EeH<zkT5dnc:6Ja^_I6<D0
+I:9B?CT0UOLUf8gBOB_U=;2
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v
+L0 131
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Param.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v|
+!i113 1
+R6
+R10
+n@r@a@w2@r@g@b
+vReset_Delay
+R14
+!i10b 1
+!s100 JSL=c1j=zM5le__9`1bkg0
+I1bi3hn1UX5NX^hXU5Q`Id2
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v
+R9
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v|
+!i113 1
+R6
+R10
+n@reset_@delay
+vsdr_data_path
+R1
+!i10b 1
+!s100 ZYChX:MoWG17Md_7alZ5T0
+I32:Ozd8[>H5L1AAL4JZzc1
+R2
+R0
+R11
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v
+R12
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Params.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v|
+!i113 1
+R6
+R13
+vSdram_Control
+R1
+!i10b 1
+!s100 C4F^TE^G6>UGB=m7G9BlY3
+Im]DP4<No03>eSA]][A`m^2
+R2
+R0
+R11
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v
+R12
+L0 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Params.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v|
+!i113 1
+R6
+R13
+n@sdram_@control
+vsdram_pll
+R1
+!i10b 1
+!s100 e3;I66DckdXS]G>fN>52e3
+Idk3n5SgRAS<BN6lGRGh8i0
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v|
+!i113 1
+R6
+R10
+vSdram_RD_FIFO
+R14
+!i10b 1
+!s100 <8N@I_Gl@H2GG85ka78<k1
+IQM:CCKVNzi_H8@d`_z0fF1
+R2
+R0
+R11
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v|
+!i113 1
+R6
+R13
+n@sdram_@r@d_@f@i@f@o
+vSdram_WR_FIFO
+R14
+!i10b 1
+!s100 jOEIgU32WI9Ne?fo=@X_J1
+IUMANj_eninDK[YOzHR49h0
+R2
+R0
+R11
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v|
+!i113 1
+R6
+R13
+n@sdram_@w@r_@f@i@f@o
+vSEG7_LUT
+R14
+!i10b 1
+!s100 `JUeD]`@T2J]7D7D8VlK;1
+ICC^4SX6iNM9iE_eT:`SZW0
+R2
+R0
+R8
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v
+R9
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v|
+!i113 1
+R6
+R10
+n@s@e@g7_@l@u@t
+vSEG7_LUT_8
+R14
+!i10b 1
+!s100 jnAXmM:4DWoo@CCZ0K6jV1
+I_J1hd@5oSBzS3VL3]bJ5h0
+R2
+R0
+w1462203411
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v
+R9
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v|
+!i113 1
+R6
+R10
+n@s@e@g7_@l@u@t_8
+vVGA_Controller
+R1
+!i10b 1
+!s100 G32PjWRd_delQF7jf];Af2
+I1oY<L9Xdc53<dgC_e5mXW0
+R2
+R0
+w1462210233
+8C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v
+FC:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Param.h
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Param.h|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v|C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v|
+!i113 1
+R6
+R10
+n@v@g@a_@controller

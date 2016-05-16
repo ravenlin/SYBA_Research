@@ -1,0 +1,254 @@
+# Reading C:/altera/15.1/modelsim_ase/tcl/vsim/pref.tcl
+# do DE2_115_CAMERA_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim ALTERA vmap 10.4b Lib Mapping Utility 2015.05 May 27 2015
+# vmap -modelsim_quiet work rtl_work 
+# Copying C:/altera/15.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/altera/15.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_RD_FIFO.v 
+# -- Compiling module Sdram_RD_FIFO
+# 
+# Top level modules:
+# 	Sdram_RD_FIFO
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_WR_FIFO.v 
+# -- Compiling module Sdram_WR_FIFO
+# 
+# Top level modules:
+# 	Sdram_WR_FIFO
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_Controller.v 
+# -- Compiling module I2C_Controller
+# 
+# Top level modules:
+# 	I2C_Controller
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Line_Buffer.v 
+# -- Compiling module Line_Buffer
+# 
+# Top level modules:
+# 	Line_Buffer
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/Reset_Delay.v 
+# -- Compiling module Reset_Delay
+# 
+# Top level modules:
+# 	Reset_Delay
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT.v 
+# -- Compiling module SEG7_LUT
+# 
+# Top level modules:
+# 	SEG7_LUT
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/SEG7_LUT_8.v 
+# -- Compiling module SEG7_LUT_8
+# 
+# Top level modules:
+# 	SEG7_LUT_8
+# End time: 11:32:51 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:51 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/sdram_pll.v 
+# -- Compiling module sdram_pll
+# 
+# Top level modules:
+# 	sdram_pll
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/bob.v 
+# -- Compiling module bob
+# 
+# Top level modules:
+# 	bob
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/command.v 
+# -- Compiling module command
+# 
+# Top level modules:
+# 	command
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/control_interface.v 
+# -- Compiling module control_interface
+# 
+# Top level modules:
+# 	control_interface
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/sdr_data_path.v 
+# -- Compiling module sdr_data_path
+# 
+# Top level modules:
+# 	sdr_data_path
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/Sdram_Control/Sdram_Control.v 
+# -- Compiling module Sdram_Control
+# 
+# Top level modules:
+# 	Sdram_Control
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/CCD_Capture.v 
+# -- Compiling module CCD_Capture
+# 
+# Top level modules:
+# 	CCD_Capture
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/I2C_CCD_Config.v 
+# -- Compiling module I2C_CCD_Config
+# 
+# Top level modules:
+# 	I2C_CCD_Config
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/RAW2RGB.v 
+# -- Compiling module RAW2RGB
+# 
+# Top level modules:
+# 	RAW2RGB
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/v/VGA_Controller.v 
+# -- Compiling module VGA_Controller
+# 
+# Top level modules:
+# 	VGA_Controller
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris {C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v}
+# Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+# Start time: 11:32:52 on May 02,2016
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris" C:/Users/ecestudent/Desktop/FPGA_Projects/Test_Original/Mem_Test/DE2_115_CAMERA_harris/DE2_115_CAMERA.v 
+# -- Compiling module DE2_115_CAMERA
+# 
+# Top level modules:
+# 	DE2_115_CAMERA
+# End time: 11:32:52 on May 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.VGA_Controller
+# vsim work.VGA_Controller 
+# Start time: 11:33:23 on May 02,2016
+# Loading work.VGA_Controller
+add wave -position insertpoint  \
+sim:/VGA_Controller/H_SYNC_CYC \
+sim:/VGA_Controller/H_SYNC_BACK \
+sim:/VGA_Controller/H_SYNC_ACT \
+sim:/VGA_Controller/H_SYNC_FRONT \
+sim:/VGA_Controller/H_SYNC_TOTAL \
+sim:/VGA_Controller/V_SYNC_CYC \
+sim:/VGA_Controller/V_SYNC_BACK \
+sim:/VGA_Controller/V_SYNC_ACT \
+sim:/VGA_Controller/V_SYNC_FRONT \
+sim:/VGA_Controller/V_SYNC_TOTAL \
+sim:/VGA_Controller/X_START \
+sim:/VGA_Controller/Y_START \
+sim:/VGA_Controller/iRed \
+sim:/VGA_Controller/iGreen \
+sim:/VGA_Controller/iBlue \
+sim:/VGA_Controller/oRequest \
+sim:/VGA_Controller/oVGA_R \
+sim:/VGA_Controller/oVGA_G \
+sim:/VGA_Controller/oVGA_B \
+sim:/VGA_Controller/oVGA_H_SYNC \
+sim:/VGA_Controller/oVGA_V_SYNC \
+sim:/VGA_Controller/oVGA_SYNC \
+sim:/VGA_Controller/oVGA_BLANK \
+sim:/VGA_Controller/mVGA_R \
+sim:/VGA_Controller/mVGA_G \
+sim:/VGA_Controller/mVGA_B \
+sim:/VGA_Controller/mVGA_H_SYNC \
+sim:/VGA_Controller/mVGA_V_SYNC \
+sim:/VGA_Controller/mVGA_SYNC \
+sim:/VGA_Controller/mVGA_BLANK \
+sim:/VGA_Controller/iCLK \
+sim:/VGA_Controller/iRST_N \
+sim:/VGA_Controller/iZOOM_MODE_SW \
+sim:/VGA_Controller/H_Cont \
+sim:/VGA_Controller/V_Cont \
+sim:/VGA_Controller/H_Cont_true \
+sim:/VGA_Controller/V_Cont_true \
+sim:/VGA_Controller/v_mask
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: ecestudent  Hostname: 250B34-EE10079  ProcessID: 11708
+# 
+#           Attempting to use alternate WLF file "./wlft84ynzm".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlft84ynzm
+# 
+force -freeze sim:/VGA_Controller/iCLK 1 0, 0 {50 ps} -r 100
+run 200 ns
+run 1000ns
+run 1000000
+run 10000000ns
+# End time: 05:45:20 on May 09,2016, Elapsed time: 162:11:57
+# Errors: 0, Warnings: 2
